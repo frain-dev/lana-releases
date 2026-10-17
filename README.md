@@ -2,9 +2,9 @@
 
 Private preview builds for team testing and feedback.
 
-[Download the latest preview](https://github.com/frain-dev/lana-releases/releases/tag/v0.1.1)
+[Download the latest preview](https://github.com/frain-dev/lana-releases/releases/tag/v0.1.2)
 
-Desktop **0.1.1** bundles Lana CLI **0.4.2**. Choose the download that matches your operating system and processor:
+Desktop **0.1.2** bundles Lana CLI **0.4.2**. Choose the download that matches your operating system and processor:
 
 | Platform | Download | Install |
 | --- | --- | --- |
